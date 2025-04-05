@@ -28,11 +28,17 @@ A local Retrieval-Augmented Generation (RAG) chatbot that can answer questions f
 ## 📁 Folder Structure
 
 ```
+![Architecture Diagram](architecture.png)
+
 rag-chatbot/
 ├── rag_chatbot.py         # Streamlit chatbot app
+
 ├── my_docs/               # Place your documents here
+
 ├── requirements.txt       # Python dependencies
+
 ├── architecture.png       # Architecture image
+
 └── README.md              # This file
 ```
 
