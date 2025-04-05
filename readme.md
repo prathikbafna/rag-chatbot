@@ -21,14 +21,12 @@ A local Retrieval-Augmented Generation (RAG) chatbot that can answer questions f
 
 > This is how the chatbot works internally:
 
-![Architecture Diagram](RAG_architecture.png)
-
 ---
 
 ## 📁 Folder Structure
 
 ```
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](RAG_architecture.png)
 
 rag-chatbot/
 ├── rag_chatbot.py         # Streamlit chatbot app
