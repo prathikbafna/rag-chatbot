@@ -1,0 +1,66 @@
+EDUCATION                                                                                                                                                                                           
+Prathik Jain 
+720-990-4940 | prathikbafna0@gmail.com | LinkedIn | GitHub  
+Master of Science in Data Science                                            
+University of Colorado Boulder, United States                                             
+Bachelor of Technology in Computer Science                                                                        
+PES University, India                                                                                      
+TECHNICAL SKILLS                                                                                                                                              
+August 2023 – May 2025 
+CGPA: 4.0/4.0 
+August 2018 – June 2022 
+CGPA: 8.4/10 
+Programming/Scripting Languages: Python, R, Java, Scala, SQL 
+Tools: MongoDB, NOSQL, MySQL, AWS, Google Cloud, Machine Learning, Docker, Kubernetes, GitHub, Apache Kafka, 
+Snowflake, Redshift, Airflow, Databricks, Hadoop, Hive, Rest API, Big Query, GRPC, Redshift, Power BI, Apache Spark 
+Coursework: Data Mining, Machine Learning, Statistical Methods and Applications, Information Visualization. 
+EXPERIENCE                                                                                                                                                                                          
+Data Engineering Intern | Lincoln Electric | Cleveland, OH, USA                            
+May 2024 – Present 
+• Building 25+ data pipelines in Azure Data Factory using spark, azure data bricks, and medallion architecture to transform 
+and migrate data for Power BI, facilitating business intelligence and creating SQL scripts for ad-hoc requests. 
+• Extracting tables from SAP tables using OData connectors and SAP table connectors to the Azure Synapse environment 
+building the Data warehouse environment and scheduling update pipelines in Azure Synapse Analytics. 
+• Transcribed Oracle stored procedures and scripts into SQL Server and migrated data flows from Alteryx to Azure. 
+• Developed a comprehensive dashboard for tracking log metrics in real-time; this initiative empowered teams with 
+actionable insights by reducing troubleshooting time by 60% during critical operational periods. 
+Statistics Teaching Assistant| University of Colorado Boulder                                      
+April 2024 – Present 
+• Facilitated six graduate-level courses in statistics and data science, including Modern Regression Analysis, ANOVA, and 
+Generalized Linear Models, ensuring effective comprehension through guidance and support. 
+• Assisted students in mastering R programming and statistical methods through office hours, grading assignments 
+Data Scientist | Honda 99P Labs | Boulder, CO, USA                                      
+Jan 2024 – May 2024 
+• Developed driver profiling models using V2X telematics data, analyzing 61,930 trips from 157 drivers to assess speeding, 
+braking, and lane-changing behaviors for enhanced road safety insights. 
+• Designed and implemented a secure AI chatbot using RAG (Retrieval-Augmented Generation) with LLMs, vector 
+databases and private cloud deployment, enabling employees to efficiently retrieve information from internal company 
+documents while ensuring data security. 
+Machine Learning Technician | Gil’s Lab | Boulder, CO, USA                    
+September 2023 – May 2024 
+• Leveraged advanced computer vision techniques to tune hyperparameters of YOLOv8 for small object detection. 
+• Implemented a bot-sort algorithm for fish tracking, and established a streamlined pipeline with 93.87% accuracy, 
+showcasing proficiency in efficient optimization and enhanced insights within the domain of computer vision. 
+Software Engineer | Zee Entertainment Ltd | Bangalore, India                       
+January 2022 – July 2023 
+• Revamped Apple payment token verification process to in-house verification and reduced the API time by 90%. 
+• Led integration efforts for Juspay Express Checkout, designing the API contracts, and optimizing the back-end payment 
+service. Implemented strategic improvements that significantly increased transaction success rates, contributing to an 
+annual revenue increase of 2.5 million dollars. 
+• Architected a generic asynchronous server-to-server notification handling system, which can be easily adapted to any 
+payment provider. This reduced the cloud cost and helped in tracking the 5 payment providers at ease. 
+PROJECTS                                                                                                                                                                
+Social Pulse – Social Media Analysis System | API, MongoDB, Airflow, NLP                                                                                                        
+• Designed and implemented a system for API information extraction with the help of airflow jobs, MongoDB storage, and 
+advanced social presence analysis across YouTube, Reddit, Twitter(X), and Tumblr. Utilized Natural Language Processing 
+and Topic Modeling for insightful company profile assessments.  
+Job Market Analysis | Python, Machine Learning, Power BI, Databases, AWS 
+• Performed text mining on 100,000+ job descriptions, extracting top 50 in-demand skills using NLP techniques 
+• Conducted clustering analysis, categorizing job roles into 5 groups based on required qualifications and experience levels. 
+Developed interactive dashboards to visualize salary trends, revealing 15%+ industry-wise salary fluctuations over 3 years. 
+• Applied association rule mining, uncovering high-confidence skill pairs to guide job seekers in upskilling. 
+Lend Lens – Bank Loan Analytics | SQL, Tableau, Excel  
+• Produced an interactive report on key loan metrics—Total Applications, Funded Amount, Amount Received, Average 
+Interest Rate, and Debt-to-Income Ratio—using SQL for data extraction and Tableau for visualization 
+• Developed charts for Monthly Trends, Regional Analysis, Loan Term, Employee Length, Loan Purpose, and Home 
+Ownership to provide visual insights into crucial lending aspects. 
